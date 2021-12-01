@@ -2,8 +2,8 @@
   "LS": {
     "Blowing Snow": 51,
     "Blustery": 51,
-    "Clear": 11,
-    "Cloudy": 43,
+    "Sereno": 11,
+    "Novoloso": 43,
     "Drizzle": 31,
     "Dust": 62,
     "Foggy": 61,
@@ -18,10 +18,10 @@
     "Mixed Rain And Snow": 53,
     "Mixed Rain And Sleet": 53,
     "Mixed Snow And Sleet": 53,
-    "Mostly Clear": 12,
-    "Mostly Cloudy": 42,
-    "Partly Cloudy": 41,
-    "Rain": 31,
+    "Prevalentemente sereno": 12,
+    "Molto nuvosolo": 42,
+    "Parzialmente nuvoloso": 41,
+    "Pioggia": 31,
     "Scattered Showers": 31,
     "Scattered Snow Showers": 51,
     "Scattered Thunderstorms": 32,
@@ -37,7 +37,7 @@
     "Thunderstorms": 32,
     "Tornado": 71,
     "Tropical Storm": 71,
-    "Windy": 71
+    "Ventoso": 71
   },
 
   "HS": {
