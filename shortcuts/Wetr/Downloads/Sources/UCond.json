@@ -1,5 +1,5 @@
 {
-  "Blowing Snow": [
+  "Bufera di neve": [
     "lh2yKH1Cml0",
     "z7MXiHhgt5s",
     "HYDL8uARCN8",
@@ -33,7 +33,7 @@
 "pzSizKiv9tw",
 "kquNaMoxp7s"
   ],
-  "Cloudy": [
+  "Nuvoloso": [
     "rRvgd5PJizQ",
     "Pe1Ol9oLc4o",
     "c-lVI683QwU",
@@ -52,7 +52,7 @@
     "lg1l0kXx3a0",
     "cxA8p5zKXoE"
   ],
-  "Drizzle": [
+  "Pioggerellina": [
     "kiZiXe8xueo",
     "QK5XRA0tYcU",
     "PiNGtUz5Wl8",
@@ -65,7 +65,7 @@
 "n8-R3M5F_H8",
     "Pp1ijectYT0"
   ],
-  "Dust": [
+  "Polvere": [
     "WFfFAueLmKM",
     "7RGnIqJDWlU",
     "juTtCtAczUo",
@@ -80,7 +80,7 @@
     "SAoa550CmaI",
     "Alkq_ht0GVk"
   ],
-  "Foggy": [
+  "Nebbia": [
     "hnw3Al47-KE",
     "DGBe-eWD8Vc",
     "rZjHdsSyg5Q",
@@ -105,7 +105,7 @@
     "SrASYZZpyjw",
     "5VDFTgpwV2g"
   ],
-  "Freezing Rain": [
+  "Grandine": [
     "PvEqUXYwHP4",
     "8of3zRvbbtg",
     "ooiBN3oDNoc",
@@ -117,7 +117,7 @@
     "uLrwuNznzO0",
     "4HlG5epxvTo"
   ],
-  "Haze": [
+  "Foschia": [
     "VrqyamatNyc",
     "sdoP4W6CC80",
     "VZgXvAweFz4",
@@ -132,7 +132,7 @@
     "l98YXp1X8dA",
     "ifpBOcQlhoY"
   ],
-  "Heavy Rain": [
+  "Pioggia forte": [
     "1YHXFeOYpN0",
     "bWtd1ZyEy6w",
     "_EMkxLdko9k",
@@ -160,7 +160,7 @@
     "acqxnHjU7T8",
     "p2zzy-sGGlo"
   ],
-  "Isolated Thundershowers": [
+  "Temporali isolati": [
     "_hGPdpyMV-8",
     "3qucB7U2l7I",
     "jSADgWPmKDU",
@@ -192,7 +192,7 @@
     "wwzLVOvzy6w",
     "LxNqkGqbO80"
   ],
-  "Isolated Thunderstorms": [
+  "Temporali sparsi": [
     "_hGPdpyMV-8",
     "3qucB7U2l7I",
     "jSADgWPmKDU",
@@ -224,7 +224,7 @@
     "wwzLVOvzy6w",
     "LxNqkGqbO80"
   ],
-  "Light Snow Showers": [
+  "Leggere nevicate": [
     "lh2yKH1Cml0",
     "z7MXiHhgt5s",
     "HYDL8uARCN8",
@@ -258,7 +258,7 @@
 "pzSizKiv9tw",
 "kquNaMoxp7s"
   ],
-  "Mixed Rain And Snow": [
+  "Nevischio": [
     "lh2yKH1Cml0",
     "z7MXiHhgt5s",
     "HYDL8uARCN8",
@@ -289,7 +289,7 @@
     "dpUyS9ENOAs",
     "mCedy9kT8fQ"
   ],
-  "Mixed Snow And Sleet": [
+  "Neve e nevischio": [
     "lh2yKH1Cml0",
     "z7MXiHhgt5s",
     "HYDL8uARCN8",
@@ -320,7 +320,7 @@
     "dpUyS9ENOAs",
     "mCedy9kT8fQ"
   ],
-  "Mostly Clear": [
+  "Prevalentemete sereno": [
     "DxVjWNcd1WI",
     "XA7lb3necv8",
     "pdnkwhWdRzc",
@@ -392,7 +392,7 @@
     "yuiJO6bvHi4",
     "Qw2CUd_9OWo"
   ],
-  "Mostly Cloudy": [
+  "Molto nuvoloso": [
     "lww-FceayIE",
     "wgLPy2YBXuc",
     "V6GQ3OXKXnE",
@@ -406,7 +406,7 @@
     "1h2Pg97SXfA",
     "3-EiAnsIXps"
   ],
-  "Partly Cloudy": [
+  "Parzialmente nuvoloso": [
     "L3Ccu3cFEw4",
     "PJCZOWuOxbU",
     "BTubi6qaY6Q",
@@ -422,7 +422,7 @@
     "xtgONQzGgOE",
 
   ],
-  "Rain": [
+  "Pioggia": [
     "1YHXFeOYpN0",
     "bWtd1ZyEy6w",
     "_EMkxLdko9k",
@@ -456,7 +456,7 @@
 "n8-R3M5F_H8",
     "p2zzy-sGGlo"
   ],
-  "Scattered Showers": [
+  "Acquazzoni sparsi": [
     "Nw_D8v79PM4",
     "1dNujhlCTYQ",
     "TrxAv6ueSws",
@@ -502,7 +502,7 @@
 "n8-R3M5F_H8",
     "LmyPLbbUWhA"
   ],
-  "Scattered Snow Showers": [
+  "Nevicate sparse": [
     "lh2yKH1Cml0",
     "z7MXiHhgt5s",
     "HYDL8uARCN8",
@@ -536,7 +536,7 @@
 "pzSizKiv9tw",
 "kquNaMoxp7s"
   ],
-  "Scattered Thunderstorms": [
+  "Temporali sparsi": [
     "_hGPdpyMV-8",
     "3qucB7U2l7I",
     "jSADgWPmKDU",
@@ -569,7 +569,7 @@
     "LxNqkGqbO80"
 
   ],
-  "Showers": [
+  "Acquazzoni": [
     "Nw_D8v79PM4",
     "1dNujhlCTYQ",
     "TrxAv6ueSws",
@@ -615,7 +615,7 @@
 "n8-R3M5F_H8",
     "LmyPLbbUWhA"
   ],
-  "Smoke": [
+  "Fumo": [
     "lmEbm-eLjTM",
     "DWjH6Vz1Hfg",
     "7Cg_KqshhEw",
@@ -652,7 +652,7 @@
     "ltUwtsT91Cw",
     "BiBr5zfBhAY"
   ],
-  "Smoky": [
+  "Nebbioso": [
     "lmEbm-eLjTM",
     "DWjH6Vz1Hfg",
     "7Cg_KqshhEw",
@@ -689,7 +689,7 @@
     "ltUwtsT91Cw",
     "BiBr5zfBhAY"
   ],
-  "Snow": [
+  "Neve": [
     "lh2yKH1Cml0",
     "z7MXiHhgt5s",
     "HYDL8uARCN8",
@@ -723,7 +723,7 @@
 "pzSizKiv9tw",
 "kquNaMoxp7s"
   ],
-  "Snow Showers": [
+  "Forti nevicate": [
     "lh2yKH1Cml0",
     "z7MXiHhgt5s",
     "HYDL8uARCN8",
@@ -757,7 +757,7 @@
 "pzSizKiv9tw",
 "kquNaMoxp7s"
   ],
-  "Thunderstorms": [
+  "Temporali": [
     "_hGPdpyMV-8",
     "3qucB7U2l7I",
     "jSADgWPmKDU",
@@ -793,7 +793,7 @@
     "fQM8cbGY6iQ",
     "dAoDS8XeEe0"
   ],
-  "Windy": [
+  "Vento forte": [
     "XfEHT_GnJvo",
     "NLsU-WA52qg",
     "BQtnVwtu1yM",
